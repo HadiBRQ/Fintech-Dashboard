@@ -90,7 +90,7 @@ const FormMask = () => {
                       </div>
                       <div className="form-group mb-4">
                         <Label>Quantity</Label>
-                        <input className="form-control" type="text" defaultValue="10"
+                        <input className="form-control" type="text" defaultValue="1"
                           style={{ background: "#F5F5F7", borderRadius: 8 }} />
                       </div>
                       <div className="form-group mb-0">
