@@ -221,7 +221,7 @@ const SidebarContent = props => {
             <li>
               <Link to="/#">
                 {/* <img src={cardLogo} height={30} width={93} /> */}
-                <span>{props.t("Hadi Ibrahim")}</span>
+                <span>{props.t("Fobework")}</span>
               </Link>
             </li>
 

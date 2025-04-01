@@ -7,7 +7,7 @@ const Footer = () => {
       <footer className="footer">
         <Container fluid={true}>
           <Row>
-            <Col md={6}>{new Date().getFullYear()} © Fintech Dashboard.</Col>
+            <Col md={6}>{new Date().getFullYear()} © FobeWork - Fintech Dashboard.</Col>
           </Row>
         </Container>
       </footer>
