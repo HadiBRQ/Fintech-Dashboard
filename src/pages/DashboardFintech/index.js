@@ -263,7 +263,7 @@ const DashboardFintech = () => {
                                       <tr>
                                         <th scope="row">Corporate</th>
                                         <td>Instant</td>
-                                        <td>10</td>
+                                        <td>1</td>
                                         <td align="center">
                                           <span className="badge badge-soft-success me-2 rounded-pill p-2">
                                             Ready
@@ -280,7 +280,7 @@ const DashboardFintech = () => {
                                       <tr>
                                         <th scope="row">Corporate</th>
                                         <td>Personalized</td>
-                                        <td>10</td>
+                                        <td>1</td>
                                         <td align="center">
                                           <span className="badge badge-soft-warning me-2 rounded-pill p-2">
                                             In Progress
@@ -297,7 +297,7 @@ const DashboardFintech = () => {
                                       <tr>
                                         <th scope="row">Corporate</th>
                                         <td>Personalized</td>
-                                        <td>10</td>
+                                        <td>1</td>
                                         <td align="center">
                                           <span className="badge badge-soft-primary me-2 rounded-pill p-2">
                                             Acknowledged
@@ -314,7 +314,7 @@ const DashboardFintech = () => {
                                       <tr>
                                         <th scope="row">Corporate</th>
                                         <td>Instant</td>
-                                        <td>10</td>
+                                        <td>1</td>
                                         <td align="center">
                                           <span className="badge badge-soft-secondary me-2 rounded-pill p-2">
                                             Pending

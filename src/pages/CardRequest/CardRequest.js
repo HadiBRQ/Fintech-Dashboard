@@ -75,7 +75,7 @@ const CardRequest = () => {
                                     <tr>
                                     <th scope="row">Corporate</th>
                                     <td>RootUser</td>
-                                    <td>10</td>
+                                    <td>1</td>
                                     <td>847264905</td>
                                     <td align="center">11/14/2024  10:27:43</td> 
                                     <td align="center">
@@ -94,7 +94,7 @@ const CardRequest = () => {
                                     <tr>
                                     <th scope="row">Corporate</th>
                                     <td>RootUser</td>
-                                    <td>10</td>
+                                    <td>1</td>
                                     <td>847264905</td>
                                     <td align="center">11/14/2024  10:27:43</td> 
                                     <td align="center">
@@ -113,7 +113,7 @@ const CardRequest = () => {
                                     <tr>
                                     <th scope="row">Corporate</th>
                                     <td>RootUser</td>
-                                    <td>10</td>
+                                    <td>1</td>
                                     <td>847264905</td>
                                     <td align="center">11/14/2024  10:27:43</td> 
                                     <td align="center">
@@ -132,7 +132,7 @@ const CardRequest = () => {
                                     <tr>
                                     <th scope="row">Corporate</th>
                                     <td>RootUser</td>
-                                    <td>10</td>
+                                    <td>1</td>
                                     <td>847264905</td>
                                     <td align="center">11/14/2024  10:27:43</td> 
                                     <td align="center">
@@ -151,7 +151,7 @@ const CardRequest = () => {
                                     <tr>
                                     <th scope="row">Corporate</th>
                                     <td>RootUser</td>
-                                    <td>10</td>
+                                    <td>1</td>
                                     <td>847264905</td>
                                     <td align="center">11/14/2024  10:27:43</td> 
                                     <td align="center">
