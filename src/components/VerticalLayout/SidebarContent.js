@@ -219,7 +219,7 @@ const SidebarContent = props => {
             <li className="menu-title">{props.t("Powerd By")} </li>
 
             <li>
-              <Link to="/#">
+              <Link to="https://www.fobework.com/" target="_blank">
                 {/* <img src={cardLogo} height={30} width={93} /> */}
                 <span>{props.t("Fobework")}</span>
               </Link>
